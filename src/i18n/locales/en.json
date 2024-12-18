@@ -1,0 +1,74 @@
+{
+  "nav": {
+    "home": "HOME",
+    "concerts": "CONCERTS",
+    "discord": "DISCORD",
+    "contact": "CONTACT"
+  },
+  "eventCard": {
+    "buyTicket": "BUY TICKET"
+  },
+  "home": {
+    "noEvents": "NO MORE UPCOMING EVENTS",
+    "upcomingEvents": "UPCOMING EVENTS",
+    "viewAllEvents": "VIEW ALL EVENTS",
+    "venue": {
+      "title": "THE VENUE",
+      "description": "We explore the essence of underground Heavy Metal, attracting a young and dedicated audience. In an authentic and electrifying atmosphere, genre lovers enjoy their favorite live music while savoring our drinks."
+    },
+    "callToAction": "GET READY FOR THE APOTHEOTIC\nSOUND OF HEAVY METAL!",
+    "spectrum": {
+      "subtitle": "A concert hall dedicated to Heavy Metal",
+      "description": "A sanctuary for metal lovers, Spectrum offers an unparalleled acoustic experience. Immerse yourself in the fervor of heavy metal in this space equipped with cutting-edge technology, ensuring intense and unforgettable concerts."
+    },
+    "discordia": {
+      "title": "YOUTH AND REBELLION"
+    },
+    "footer": {
+      "culturalSpace": "We are a public cultural space recognized by the Murcia City Council.",
+      "collaboration": "In collaboration with Murcia Live (association of live music venues in the Region of Murcia) and ACCES (Spanish Association of Concert Halls).",
+      "proud": "We are proud to be part of the vibrant music scene in the area!"
+    }
+  },
+  "concerts": {
+    "upcomingEvents": "UPCOMING EVENTS",
+    "noUpcomingEvents": "NO MORE UPCOMING EVENTS",
+    "pastEvents": "PAST EVENTS"
+  },
+  "footer": {
+    "followUs": "FOLLOW US:",
+    "description": "Join the scene at Sala Spectrum! We are your Heavy Metal home inMurcia. Intense concerts, more powerfuland a unique experience.",
+    "contactInfo": "CONTACT INFORMATION",
+    "address": "Address:",
+    "addressText": "Av. Ciclista Mariano Rojas, 16, 30009\nMurcia",
+    "phone": "Phone:",
+    "email": "Email:",
+    "howToGet": "How to get here →",
+    "legal": "LEGAL",
+    "legalLinks": {
+      "terms": "Terms of service",
+      "privacy": "Privacy policy",
+      "cookies": "Cookies policy (EU)",
+      "accessibility": "Accessibility"
+    }
+  },
+  "cta": {
+    "title": "LET THE MUSIC\nUNITE US!",
+    "description": "You can find Sala Spectrum on Instagram,\nwhere we share news, events and content\nrelated to the music you are passionate about.",
+    "moreInfo": "MORE INFORMATION"
+  },
+  "contact": {
+    "title": "CONTACT US",
+    "subtitle": "VISIT US WHENEVER YOU WANT",
+    "welcome": "WELCOME TO THE WORLD OF HEAVY METAL",
+    "welcome2": "WE LOVE TO READ FROM YOU AFTER YOUR VISIT",
+    "phone": "Phone: 669 546 444",
+    "instagram": "Instagram: salaspectrum",
+    "email": "Email: salaspectrum@gmail.com",
+    "address": "Address: Av. Ciclista Mariano Rojas, 16, 30009 Murcia"
+  },
+  "discord": {
+    "noUpcomingEvents": "NO MORE UPCOMING EVENTS",
+    "pastEvents": "PAST EVENTS"
+  }
+}

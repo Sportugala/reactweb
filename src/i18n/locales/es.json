@@ -1,0 +1,75 @@
+{
+  "home": {
+    "noEvents": "NO HAY MÁS EVENTOS PRÓXIMOS",
+    "upcomingEvents": "PRÓXIMOS EVENTOS",
+    "viewAllEvents": "VER TODOS LOS EVENTOS",
+    "venue": {
+      "title": "LA SALA",
+      "description": "Exploramos la esencia del Heavy Metal underground, atrayendo a un público joven y entregado. En un ambiente auténtico y electrizante, los amantes del género disfrutan de su música favorita en vivo mientras degustan nuestras bebidas."
+    },
+    "callToAction": "¡PREPARAOS PARA EL APOTEÓSICO\nSONIDO DEL HEAVY METAL!",
+    "spectrum": {
+      "subtitle": "Una sala de conciertos dedicada al Heavy Metal",
+      "description": "Un santuario para los amantes del metal, Spectrum ofrece una experiencia acústica incomparable. Sumérgete en el fervor del heavy metal en este espacio dotado con tecnología de vanguardia, garantizando conciertos intensos e inolvidables."
+    },
+    "discordia": {
+      "title": "JUVENTUD Y REBELDÍA"
+    },
+    "footer": {
+      "culturalSpace": "Somos un espacio cultural público reconocido por el ayuntamiento de Murcia.",
+      "collaboration": "En colaboración con Murcia Live (asociación de salas de música en directo de la Región de Murcia) y ACCES (Asociación Española de Salas de Conciertos).",
+      "proud": "¡Nos enorgullece ser parte de la vibrante escena musical de la zona!"
+    }
+  },
+  "nav": {
+    "home": "INICIO",
+    "concerts": "CONCIERTOS",
+    "discord": "DISCORDIA",
+    "contact": "CONTACTO"
+  },
+  "eventCard": {
+    "buyTicket": "COMPRA TU ENTRADA"
+  },
+  "concerts": {
+    "upcomingEvents": "PRÓXIMOS EVENTOS",
+    "noUpcomingEvents": "NO HAY MÁS EVENTOS PRÓXIMOS",
+    "pastEvents": "EVENTOS PASADOS"
+  },
+  "footer": {
+    "followUs": "SIGUENOS:",
+    "description": "¡Uníos a la escena en Sala Spectrum! Somos vuestra casa del Heavy Metal en Murcia. Conciertos intensos, más poderosos y una experiencia única.",
+    "contactInfo": "INFORMACIÓN DE CONTACTO",
+    "address": "Dirección:",
+    "addressText": "Av. Ciclista Mariano Rojas, 16, 30009\nMurcia",
+    "phone": "Teléfono:",
+    "email": "Mail:",
+    "howToGet": "Cómo llegar →",
+    "legal": "LEGAL",
+    "legalLinks": {
+      "terms": "Aviso legal",
+      "privacy": "Política de privacidad",
+      "cookies": "Política de cookies (UE)",
+      "accessibility": "Accesibilidad"
+    }
+  },
+  "cta": {
+    "title": "¡DEJAD QUE LA MÚSICA OS UNA A NOSOTROS!",
+    "description": "Podéis encontrar la Sala Spectrum en Instagram,\ndonde compartimos noticias, eventos y contenido\nrelacionado con la música que os apasiona.",
+    "moreInfo": "MÁS INFORMACIÓN"
+  },
+  "contact": {
+    "title": "CONTÁCTANOS",
+    "subtitle": "VISITADNOS CUANDO DESEÉIS",
+    "welcome": "OS DAMOS LA BIENVENIDA AL MUNDO DEL HEAVY METAL",
+		"welcome2": "NOS ENCANTA LEEROS DESPUÉS DE VUESTRA VISITA",
+    "phone": "Teléfono: 669 546 444",
+    "instagram": "Instagram: salaspectrum",
+    "email": "Correo: salaspectrum@gmail.com",
+    "address": "Dirección: Av. Ciclista Mariano Rojas, 16, 30009 Murcia"
+  },
+
+  "discord": {
+    "noUpcomingEvents": "NO HAY MÁS EVENTOS PRÓXIMOS",
+    "pastEvents": "EVENTOS PASADOS"
+  }
+}
